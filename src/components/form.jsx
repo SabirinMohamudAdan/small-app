@@ -52,7 +52,7 @@ const Form = () => {
      sm:ml-[400px] font-serif  sm:mr-0 mr-2 ml-3 ">
 
      <i onClick={handleClose} 
-     class="fa-solid fa-xmark text-white text-4xl sm:ml-[270px]
+     class="fa-solid fa-xmark text-cyan-400 text-4xl sm:ml-[270px]
       ml-[260px] sm:mt-[-70px]"></i> <br />
 
       <input    value={Title} onChange={(e) => setTitle(e.target.value)}
