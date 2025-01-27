@@ -48,7 +48,7 @@ const Form = () => {
 
     <div style={{display: Open === true ? "block" : ""}} className="
      bg-white relative hidden w-full h-screen pt-32">
-     <div className="bg-cyan-950 rounded-3xl w-[350px] p-10 
+     <div className="bg-pink-700 rounded-3xl w-[350px] p-10 
      sm:ml-[400px] font-serif  sm:mr-0 mr-2 ml-3 ">
 
      <i onClick={handleClose} 
