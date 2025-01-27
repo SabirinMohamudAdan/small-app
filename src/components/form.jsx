@@ -39,7 +39,7 @@ const Form = () => {
     return <>
 
     <div className=" ">
-        <h1 className="text-5xl bg-cyan-950
+        <h1 className="text-5xl bg-pink-700
          text-white font-serif font-bold px-4">SomTech</h1>
     </div>
 
@@ -73,7 +73,7 @@ const Form = () => {
      
    <div>
     <button onClick={handleOpen} className="text-4xl fixed bottom-2
-     font-bold bg-pink-600 text-white
+     font-bold bg-pink-700 text-white
       rounded-full px-3 py-2 right-4 " >+</button>
   </div>
 {
