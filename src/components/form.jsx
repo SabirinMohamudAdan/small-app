@@ -73,7 +73,7 @@ const Form = () => {
      
    <div>
     <button onClick={handleOpen} className="text-4xl fixed bottom-2
-     font-bold bg-cyan-950 text-white
+     font-bold bg-pink-600 text-white
       rounded-full px-3 py-2 right-4 " >+</button>
   </div>
 {
